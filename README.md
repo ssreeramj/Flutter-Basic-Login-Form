@@ -1,6 +1,6 @@
 # Login using Email and Password
 
-This app is a basic template for a login form using email and password. UI has been made using Flutter and authentication part has been taken care by Firebase.
+This app is a basic template for a login form using email and password. UI has been made using Flutter and authentication part has been implemented using with the help of Firebase.
 
 ## Images
 <table>
