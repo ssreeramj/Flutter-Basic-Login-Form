@@ -2,6 +2,9 @@
 
 This app is a basic template for a login form using email and password. UI has been made using Flutter and authentication part has been implemented using with the help of Firebase.
 
+# Download APK
+![alt](https://github.com/ssreeramj/Flutter-Basic-Login-Form/blob/master/download.png)
+
 ## Images
 <table>
   <tr>
